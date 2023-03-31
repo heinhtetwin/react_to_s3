@@ -8,7 +8,6 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hello World! This is a sample static website Deployed by <i>Heinux</i>.
-          This is some more text added!.
         </p>
         <a
           className="App-link"
